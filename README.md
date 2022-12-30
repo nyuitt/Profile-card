@@ -1,1 +1,1 @@
-# Profile-card
+# Basic profile card project
