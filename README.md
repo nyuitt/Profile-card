@@ -14,4 +14,4 @@ Rápida descrição do objetivo de fazer esse projeto
 
 ## Detalhes do projeto
 
-Projeto realizado em HTML e CSS, feito com o intuito de redirecionar para perfis pessoais em outras redes.
+Projeto realizado em HTML e CSS baseado nos conhecimentos adquiridos durante as aulas da Alura
