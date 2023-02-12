@@ -10,7 +10,7 @@ Rápida descrição do objetivo de fazer esse projeto
 | :fire: Desafio     | #
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
-![](https://user-images.githubusercontent.com/111362734/218182276-a7e30e28-0cdd-4a80-bed4-4fbebebeb66e.png#vitrinedev)
+![](https://user-images.githubusercontent.com/111362734/218327676-031f6326-3036-45f1-98db-dbede5e8f838.png#vitrinedev)
 
 ## Detalhes do projeto
 
@@ -18,6 +18,4 @@ Projeto responsivo realizado em HTML e CSS baseado nos conhecimentos adquiridos 
 
 🤓☝
 
-![image](https://user-images.githubusercontent.com/111362734/218182501-9ef73190-1e83-47af-bb39-ef0f8202c8a7.png)
-
-![image](https://user-images.githubusercontent.com/111362734/218183463-938703aa-d33c-4e66-aa5a-7f81ee5ba65d.png)
+![image](https://user-images.githubusercontent.com/111362734/218327698-9c0bf8f1-42ea-481c-8d21-151238fa9e52.png)
